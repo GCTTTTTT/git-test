@@ -13,6 +13,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hhehrn");
         System.out.println("hhehrn2");
-        System.out.println("hhehrn3");
+        System.out.println("hhehrn2");
+        System.out.println("hhehrn4");
     }
 }
